@@ -1,5 +1,8 @@
 ## <span style="color:green;">Hi there 👋 I'm <span style="color:blue;">Ricky</span></span>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/rickyreza12/rickyreza12/blob/main/Infinity@1x-1.5s-200px-200px%20(2).gif" alt="loading">
+</div>
 
 Welcome to my project! Please wait while we load the content...
 
