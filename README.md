@@ -1,73 +1,52 @@
-<div align="center">
+<a href="https://www.rickyreza.site/">
+  <img src="./assets/portfolio-hero.svg" width="100%" alt="Muhammad Ricky Reza | Senior Fullstack &amp; AI Engineer. Reliable systems, thoughtful interfaces, practical AI." />
+</a>
 
-# Hi, I'm Ricky Reza 👋
+<p align="center">
+  <a href="https://www.rickyreza.site/"><strong>ENTER PORTFOLIO ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="#01--operator-profile">PROFILE</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="#02--skill-loadout">SKILL LOADOUT</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://github.com/rickyreza12?tab=repositories">EXPLORE REPOSITORIES ↗</a>
+</p>
 
-### Senior Fullstack & AI Engineer
+### 01 / Operator profile
 
-Building reliable backend systems, modern web applications,  
-and practical AI-powered products.
+I'm Ricky, a **Senior Fullstack & AI Engineer** based in Jakarta, Indonesia.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rickyreza.site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rickyreza.site)
-[![GitHub](https://img.shields.io/badge/GitHub-rickyreza12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rickyreza12)
+I build maintainable backend systems, modern web applications, and practical AI-powered products. My interests sit at the intersection of **system design, distributed systems, and AI engineering**.
 
-</div>
+Currently exploring LLM inference, retrieval-augmented generation, embeddings, vector search, and the infrastructure that brings them into production.
 
----
+### 02 / Skill loadout
 
-## 👨‍💻 About Me
+<img src="./assets/skill-loadout.svg" width="100%" alt="Backend: .NET, C#, Rust, Python, Go, PostgreSQL, Redis, RabbitMQ. Frontend: React, TypeScript, Vite, Tailwind. AI: LLM, RAG, embeddings, OCR, Qdrant, pgvector, llama.cpp, Langfuse. Infrastructure: Docker, Kubernetes, AWS, Linux, observability, MLOps." />
 
-I'm a software engineer focused on building maintainable systems across backend, frontend, cloud, and AI engineering.
+<details>
+<summary>View the stack as text</summary>
 
-- 🔭 Building fullstack and AI-powered products
-- 🧠 Exploring LLM inference, RAG, embeddings, vector search, and MLOps
-- ⚙️ Interested in system design, distributed systems, and backend architecture
-- 🌐 Portfolio: [rickyreza.site](https://rickyreza.site)
+- **Backend:** .NET, C#, Rust, Python, Go
+- **Data & messaging:** PostgreSQL, Redis, RabbitMQ
+- **Frontend:** React, TypeScript, Vite, Tailwind CSS
+- **AI & retrieval:** LLMs, RAG, embeddings, OCR, Qdrant, pgvector, llama.cpp, Langfuse
+- **Cloud & delivery:** Docker, Kubernetes, AWS, Linux, observability, MLOps
 
-## 🧰 Tech Stack
+</details>
 
-### Languages & Backend
+### 03 / Engineering direction
 
-[![Languages and backend](https://skillicons.dev/icons?i=dotnet,cs,rust,python,go)](https://skillicons.dev)
+**Build with purpose.** Reliable APIs, clear interfaces, and useful automation.
 
-### Frontend
+**Understand the system.** From inference and retrieval to data flow and deployment.
 
-[![Frontend](https://skillicons.dev/icons?i=react,ts,vite,tailwind)](https://skillicons.dev)
-
-### Data, Cloud & Infrastructure
-
-[![Data, cloud and infrastructure](https://skillicons.dev/icons?i=postgres,redis,rabbitmq,docker,kubernetes,aws,linux)](https://skillicons.dev)
-
-### AI Engineering
-
-`LLM` · `RAG` · `Embeddings` · `Qdrant` · `pgvector` · `llama.cpp` · `Langfuse` · `OCR` · `MLOps`
-
-## 🎯 Current Focus
-
-`AI Engineering` · `Backend Architecture` · `System Design` · `Cloud & DevOps` · `Frontend Engineering`
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rickyreza12&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Ricky's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickyreza12&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Ricky's most used languages" />
-
-</div>
-
-## 🚀 What I Like Building
-
-- Reliable APIs and backend services
-- AI-powered search and retrieval systems
-- RAG pipelines and practical LLM applications
-- Modern, responsive web applications
-- Cloud-native systems and developer tooling
+**Keep improving.** Explore, measure, and refine.
 
 ---
 
-<div align="center">
-
-### Build. Learn. Improve.
-
-![Profile views](https://komarev.com/ghpvc/?username=rickyreza12&style=flat-square&color=0A66C2)
-
-</div>
+<p align="center">
+  <a href="https://www.rickyreza.site/"><strong>Explore the full interactive portfolio ↗</strong></a>
+  <br />
+  <sub>RICKY REZA &nbsp; / &nbsp; BUILD · LEARN · REFINE</sub>
+</p>
