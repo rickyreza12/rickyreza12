@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-labelledby="title desc">
+<title id="title">Muhammad Ricky Reza — Senior Fullstack and AI Engineer</title>
+<desc id="desc">Portfolio-inspired dark editorial header with ivory typography, teal geometry, red accents, and slowly rotating orbital rings.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10282b"/><stop offset=".65" stop-color="#0b0b0d"/><stop offset="1" stop-color="#201612"/></linearGradient>
+<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#f4ead5" stroke-opacity=".045"/></pattern>
+<radialGradient id="halo"><stop stop-color="#3aa5a4" stop-opacity=".2"/><stop offset="1" stop-color="#3aa5a4" stop-opacity="0"/></radialGradient>
+<style>
+.orbit{transform-origin:792px 213px;animation:orbit 28s linear infinite}
+.reverse{transform-origin:792px 213px;animation:orbit 20s linear infinite reverse}
+.pulse{animation:pulse 3s ease-in-out infinite}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@keyframes pulse{50%{opacity:.35}}
+@media(prefers-reduced-motion:reduce){.orbit,.reverse,.pulse{animation:none}}
+</style>
+</defs>
+<path fill="url(#bg)" d="M0 0h1000v440H0z"/><path fill="url(#grid)" d="M0 0h1000v440H0z"/>
+<path d="M635 0H842L586 440H500Z" fill="#3aa5a4" opacity=".075"/>
+<path d="M961 0H985L737 440H713Z" fill="#e23a2b" opacity=".1"/>
+<circle cx="792" cy="213" r="205" fill="url(#halo)"/>
+<path d="M26 56V26H56M944 26h30v30M26 384v30h30M944 414h30v-30" fill="none" stroke="#f4ead5" stroke-opacity=".45"/>
+<text x="50" y="61" fill="#5ec7c5" font-family="Arial,sans-serif" font-size="11" letter-spacing="3">M · R · R / ENGINEERING PORTFOLIO</text>
+<circle class="pulse" cx="939" cy="57" r="4" fill="#ff5543"/>
+<text x="925" y="61" text-anchor="end" fill="#f4ead5" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">JAKARTA, ID</text>
+<text x="49" y="135" fill="#f4ead5" font-family="Georgia,serif" font-size="28" letter-spacing="5">MUHAMMAD</text>
+<text x="43" y="209" fill="#f4ead5" font-family="Georgia,serif" font-size="76" font-weight="bold" letter-spacing="-3">RICKY REZA</text>
+<path d="M50 235H108" stroke="#e23a2b" stroke-width="4"/>
+<text x="50" y="276" fill="#5ec7c5" font-family="Arial,sans-serif" font-size="18" letter-spacing="1">SENIOR FULLSTACK &amp; AI ENGINEER</text>
+<text x="50" y="315" fill="#d1cabd" font-family="Arial,sans-serif" font-size="15">Reliable systems. Thoughtful interfaces. Practical AI.</text>
+<g fill="none" stroke="#f4ead5">
+<circle cx="792" cy="213" r="126" stroke-opacity=".2"/>
+<circle cx="792" cy="213" r="91" stroke-opacity=".15"/>
+<path d="M640 213H944M792 61V365" stroke-opacity=".12"/>
+<circle class="orbit" cx="792" cy="213" r="116" stroke="#5ec7c5" stroke-width="11" stroke-dasharray="160 569"/>
+<circle class="reverse" cx="792" cy="213" r="99" stroke="#e23a2b" stroke-width="6" stroke-dasharray="70 552"/>
+<circle class="orbit" cx="792" cy="213" r="72" stroke="#f4ead5" stroke-width="2" stroke-dasharray="95 357"/>
+<circle cx="792" cy="213" r="52" stroke-opacity=".5"/>
+</g>
+<text x="792" y="228" text-anchor="middle" fill="#f4ead5" font-family="Georgia,serif" font-size="42">R.</text>
+<text x="792" y="363" text-anchor="middle" fill="#7cb4b2" font-family="Arial,sans-serif" font-size="10" letter-spacing="3">BUILD / LEARN / REFINE</text>
+<path d="M50 382H950" stroke="#f4ead5" stroke-opacity=".17"/>
+<text x="50" y="407" fill="#f4ead5" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">BACKEND  /  FRONTEND  /  CLOUD  /  AI</text>
+<text x="950" y="407" text-anchor="end" fill="#5ec7c5" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">RICKYREZA.SITE ↗</text>
+</svg>
